@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CalendarExample</string>
+    <string name="new_event">New Event</string>
+    <string name="cancel">cancel</string>
+    <string name="ok">ok</string>
+    <string name="today">Today</string>
+    <string name="delete">delete</string>
+    <string name="set">set</string>
+    <string name="double_dots" translatable="false">:</string>
+    <string name="select_color_instruction">Select color of event</string>
+    <string name="event_default_title">My event</string>
+    <string name="event_default_message">My message</string>
+    <string name="save">save</string>
+    <string name="title">Title</string>
+    <string name="message">Message</string>
+    <string name="completed">Completed</string>
+    <string name="no_events">no events</string>
+
+    <string name="notifyChannelID">notify_channel</string>
+    <string name="resourceUrl">android.resource://cerebrik.com.alarmapp/</string>
+    <string name="app_channel">Alarm Alert</string>
+
+
+
+</resources>
